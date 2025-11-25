@@ -12,7 +12,7 @@ Projeto de um sistema de gerenciador de estoque simples feito em PYTHON para por
 
 ## TECNOLOGIAS UTILIZADAS:
 - Python 3.14
-- Módulos Nativos: system, time
+- Módulos Nativos: OS, time
 
 ## FUNCIONALIDADES:
 - Lógica de adição (cadastro), remoção, substituição e atualização de itens em estoque;
